@@ -1,7 +1,9 @@
-# Sistema de Controle de Estoque
+# Plataforma de ensino online
 
 # Equipe
-Eric de Araújo Alburquerque            **517128**
+Antonio Pereira Torres Neto         **498839**
+
+Eric de Araújo Alburquerque           **517128**
 
 Francisco Lucas Farias da Silva      **538691**
 
@@ -9,10 +11,12 @@ Lucas Eduardo Mota                   **535488**
 
 Maria Clara Pereira de Sousa         **536940**
 
+
+
 # **Domínio** 
 
-  **Área de Negócio:** Varejo ou comércio eletrônico
+  **Área de Negócio:** Educação à distância.
  
-  **Problema:** Desenvolver um sistema para monitorar o estoque, registrar entradas e saídas de produtos, fornecer alertas de reabastecimento, etc.
+  **Problema:** Criar uma plataforma para fornecer aulas, materiais de estudos, quizzes, interações entre alunos e professores.
 
-  **Público Alvo:** Empresas e vendedores.
+  **Público Alvo:** Estudantes e educadores.
