@@ -1,7 +1,6 @@
 # Plataforma de ensino online
 
 # Equipe
-Antonio Pereira Torres Neto         **498839**
 
 Eric de Araújo Alburquerque           **517128**
 
